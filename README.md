@@ -1,1 +1,1 @@
-MovieFlix Repository
+This is the MovieFlix Repository.
